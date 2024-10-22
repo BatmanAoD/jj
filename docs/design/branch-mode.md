@@ -29,7 +29,7 @@ The configuration option will never affect any of these `jj` behaviors:
 
 These Excalidraw diagrams show the effect of various `jj` commands when in
 branch mode:
-https://excalidraw.com/#json=pkmTWTuzkToGdc4xSUy2C,7uhU9FBI6rJK-U_XGCH4HA
+[final rendering TBD; see PR-description for updated link]
 
 In these diagrams, a colored arrow is a `jj` bookmark, and a bold and colored
 commit-graph node is `b(HEAD)`.
